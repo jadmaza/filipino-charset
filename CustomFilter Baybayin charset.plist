@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+<array>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>uni1700</string>
+			<string>uni1701</string>
+			<string>uni1702</string>
+			<string>uni1703</string>
+			<string>uni1704</string>
+			<string>uni1705</string>
+			<string>uni1706</string>
+			<string>uni1707</string>
+			<string>uni1708</string>
+			<string>uni1709</string>
+			<string>uni170A</string>
+			<string>uni170B</string>
+			<string>uni170C</string>
+			<string>uni170D</string>
+			<string>uni170E</string>
+			<string>uni170F</string>
+			<string>uni1710</string>
+			<string>uni1711</string>
+			<string>uni1712</string>
+			<string>uni1713</string>
+			<string>uni1714</string>
+			<string>uni1715</string>
+			<string>uni171F</string>
+			<string>uni1735</string>
+			<string>uni1736</string>
+			<string>uni25CC</string>
+	</array>
+		<key>name</key>
+		<string>Baybayin Unicode</string>
+	</dict>
+
+
+</array>
+</plist>

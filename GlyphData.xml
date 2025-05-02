@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	unicodeLegacy	CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#IMPLIED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	accents			CDATA		#IMPLIED>
+]>
+<glyphData>
+	<glyph unicode="1700" name="A-baybayin" sortName="tgl00" category="Letter" subCategory="Syllable" script="tagalog" production="uni1700" description="TAGALOG LETTER A" />
+	<glyph unicode="1701" name="I-baybayin" sortName="tgl01" category="Letter" subCategory="Syllable" script="tagalog" production="uni1701" description="TAGALOG LETTER I" />
+	<glyph unicode="1702" name="U-baybayin" sortName="tgl02" category="Letter" subCategory="Syllable" script="tagalog" production="uni1702" description="TAGALOG LETTER U" />
+	<glyph unicode="170A" name="BA-baybayin" sortName="tgl0A" category="Letter" subCategory="Syllable" script="tagalog" production="uni170A" description="TAGALOG LETTER BA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1703" name="KA-baybayin" sortName="tgl03" category="Letter" subCategory="Syllable" script="tagalog" production="uni1703" description="TAGALOG LETTER KA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1707" name="DA-baybayin" sortName="tgl07" category="Letter" subCategory="Syllable" script="tagalog" production="uni1707" description="TAGALOG LETTER DA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1704" name="GA-baybayin" sortName="tgl04" category="Letter" subCategory="Syllable" script="tagalog" production="uni1704" description="TAGALOG LETTER GA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1711" name="HA-baybayin" sortName="tgl11" category="Letter" subCategory="Syllable" script="tagalog" production="uni1711" description="TAGALOG LETTER HA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="170E" name="LA-baybayin" sortName="tgl0E" category="Letter" subCategory="Syllable" script="tagalog" production="uni170E" description="TAGALOG LETTER LA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="170B" name="MA-baybayin" sortName="tgl0B" category="Letter" subCategory="Syllable" script="tagalog" production="uni170B" description="TAGALOG LETTER MA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1708" name="NA-baybayin" sortName="tgl08" category="Letter" subCategory="Syllable" script="tagalog" production="uni1708" description="TAGALOG LETTER NA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1705" name="NGA-baybayin" sortName="tgl05" category="Letter" subCategory="Syllable" script="tagalog" production="uni1705" description="TAGALOG LETTER NGA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1709" name="PA-baybayin" sortName="tgl09" category="Letter" subCategory="Syllable" script="tagalog" production="uni1709" description="TAGALOG LETTER PA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="170D" name="RA-baybayin" sortName="tgl0D" category="Letter" subCategory="Syllable" script="tagalog" production="uni170D" description="TAGALOG LETTER RA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1710" name="SA-baybayin" sortName="tgl10" category="Letter" subCategory="Syllable" script="tagalog" production="uni1710" description="TAGALOG LETTER SA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1706" name="TA-baybayin" sortName="tgl06" category="Letter" subCategory="Syllable" script="tagalog" production="uni1706" description="TAGALOG LETTER TA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="170F" name="WA-baybayin" sortName="tgl0F" category="Letter" subCategory="Syllable" script="tagalog" production="uni170F" description="TAGALOG LETTER WA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="170C" name="YA-baybayin" sortName="tgl0C" category="Letter" subCategory="Syllable" script="tagalog" production="uni170C" description="TAGALOG LETTER YA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="171F" name="RA-baybayin.hist" sortName="tgl1F" category="Letter" subCategory="Syllable" script="tagalog" production="uni171F" description="TAGALOG LETTER ARCHAIC RA" anchors="top, pamudpod, bottom" marks="uni1712, uni1713, uni1714, uni1715" />
+	<glyph unicode="1712" name="Ipatinig-baybayin" sortName="tgl12" category="Mark" subCategory="Nonspacing" script="tagalog" production="uni1712" description="TAGALOG VOWEL SIGN I" />
+	<glyph unicode="1713" name="Upatinig-baybayin" sortName="tgl13" category="Mark" subCategory="Nonspacing" script="tagalog" production="uni1713" description="TAGALOG VOWEL SIGN U" />
+	<glyph unicode="1714" name="kruskudlit-baybayin" sortName="tgl14" category="Mark" subCategory="Nonspacing" script="tagalog" production="uni1714" description="TAGALOG SIGN VIRAMA" />
+	<glyph unicode="1715" name="pamudpod-baybayin" sortName="tgl15" category="Mark" subCategory="Spacing" script="tagalog" production="uni1715" description="TAGALOG SIGN PAMUDPOD" />
+	<glyph unicode="1735" name="isabantas-baybayin" sortName="tgl35" category="Punctuation" script="tagalog" production="uni1735" description="PHILIPPINE SINGLE PUNCTUATION" />
+	<glyph unicode="1736" name="dalawabantas-baybayin" sortName="tgl36" category="Punctuation" script="tagalog" production="uni1736" description="PHILIPPINE DOUBLE PUNCTUATION" />
+</glyphData>
