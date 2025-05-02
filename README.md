@@ -1,6 +1,6 @@
 # Filipino CharSet
 
-**Mungkáhing Filipino (Latin) Character Set** • edisyon Nobyembre 2021
+**Mungkáhing Filipino Character Set** • edisyon Mayo 2025
 
 Ang *Filipino CharSet* ay itinipon upang maging kaunting patnubay sa mga gumagawa ng *fonts* na nagnanais mabigyang suporta ang mga Pilipinong wika. Ito ay ibinatay sa [palabaybayan ng Filipino](https://tl.wikipedia.org/wiki/Palabaybayan_ng_Filipino) at mga panitik na nagagamit sa karaniwang palapindutan.
 
@@ -217,3 +217,33 @@ Masaklaw na talahanayan:
 | | | - | bar | 007C |
 | \ | - | backslash | 005C |
 |  | puwang | space | 0020 |
+
+### Baybayin
+| Karakter | Katawagán | Glyph name | Unicode codepoint |
+| --- | --- | --- |
+| ~ | Tagalog Letter A | A-baybayin | 1700 |
+| @ | I-baybayin | 1701 |
+| # | U-baybayin | 1702 |
+| ^ | KA-baybayin | 1703 |
+| & | GA-baybayin | 1704 |
+| & | NGA-baybayin | 1705 |
+| & | TA-baybayin | 1706 |
+| & | DA-baybayin | 1707 |
+| & | NA-baybayin | 1708 |
+| & | PA-baybayin | 1709 |
+| & | BA-baybayin | 170A |
+| & | MA-baybayin | 170B |
+| & | YA-baybayin | 170C |
+| & | RA-baybayin | 170D |
+| & | LA-baybayin | 170E |
+| & | WA-baybayin | 170F |
+| & | SA-baybayin | 1710 |
+| & | HA-baybayin | 1711 |
+| & | Ipatinig-baybayin | 1712 |
+| & | Upatinig-baybayin | 1713 |
+| & | kruskudlit-baybayin | 1714 |
+| & | pamudpod-baybayin | 1715 |
+| & | RA-baybayin.hist | 171F |
+| & | isabantas-baybayin | 1735 |
+| & | dalawabantas-baybayin | 1736 |
+| & | dottedCircle | 25CC |
