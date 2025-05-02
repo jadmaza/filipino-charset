@@ -2,11 +2,12 @@
 
 **Mungkáhing Filipino Character Set** • edisyon Mayo 2025
 
-Ang *Filipino CharSet* ay itinipon upang maging kaunting patnubay sa mga gumagawa ng *fonts* na nagnanais mabigyang suporta ang mga Pilipinong wika. Ito ay ibinatay sa [palabaybayan ng Filipino](https://tl.wikipedia.org/wiki/Palabaybayan_ng_Filipino) at mga panitik na nagagamit sa karaniwang palapindutan.
+Ang *Filipino CharSet* ay itinipon upang maging kaunting patnubay sa mga gumagawa ng *fonts* na nagnanais mabigyang suporta ang mga Pilipinong wika. Ito ay ibinatay sa [palabaybayan ng Filipino](https://tl.wikipedia.org/wiki/Palabaybayan_ng_Filipino), mga panitik na nagagamit sa karaniwang palapindutan, at [Tagalog (Unicode block)](https://en.wikipedia.org/wiki/Tagalog_(Unicode_block)).
 
 ```
 ABCDEFGHIJKLMNÑOPQRSTUVWXYZabcdefghijklmnñopqrstuvwxyz◌́◌̀◌̂◌̈◌̃´`ˆ¨˜
-ÁÀÂÉÈÊËÍÌÎÓÒÔÚÙÛáàâéèêëíìîóòôúùû,.?!-:;'"‘’“”()[]{}0123456789%+−×÷=₱~@#^&*_<>/|\ 
+ÁÀÂÉÈÊËÍÌÎÓÒÔÚÙÛáàâéèêëíìîóòôúùû,.?!-:;'"‘’“”()[]{}0123456789%+−×÷=₱~@#^&*_<>/|\
+ᜀᜁᜂᜃᜄᜅᜆᜇᜈᜉᜊᜋᜌᜍᜎᜏᜐᜑᜟ◌ᜒ◌ᜓ◌᜔◌᜕᜵᜶◌
 ```
 
 > Sa mga *all-caps* na *font*, maglagay ng kopya ng malalaking titik sa lugar ng maliliit na titik.
@@ -214,36 +215,37 @@ Masaklaw na talahanayan:
 | < | mas kaunti sa | less | 003C |
 | > | mas higit sa | greater | 003E |
 | / | - | slash | 002F |
-| | | - | bar | 007C |
+| ｜ | - | bar | 007C |
 | \ | - | backslash | 005C |
 |  | puwang | space | 0020 |
 
 ### Baybayin
+
 | Karakter | Katawagán | Glyph name | Unicode codepoint |
-| --- | --- | --- |
-| ~ | Tagalog Letter A | A-baybayin | 1700 |
-| @ | I-baybayin | 1701 |
-| # | U-baybayin | 1702 |
-| ^ | KA-baybayin | 1703 |
-| & | GA-baybayin | 1704 |
-| & | NGA-baybayin | 1705 |
-| & | TA-baybayin | 1706 |
-| & | DA-baybayin | 1707 |
-| & | NA-baybayin | 1708 |
-| & | PA-baybayin | 1709 |
-| & | BA-baybayin | 170A |
-| & | MA-baybayin | 170B |
-| & | YA-baybayin | 170C |
-| & | RA-baybayin | 170D |
-| & | LA-baybayin | 170E |
-| & | WA-baybayin | 170F |
-| & | SA-baybayin | 1710 |
-| & | HA-baybayin | 1711 |
-| & | Ipatinig-baybayin | 1712 |
-| & | Upatinig-baybayin | 1713 |
-| & | kruskudlit-baybayin | 1714 |
-| & | pamudpod-baybayin | 1715 |
-| & | RA-baybayin.hist | 171F |
-| & | isabantas-baybayin | 1735 |
-| & | dalawabantas-baybayin | 1736 |
-| & | dottedCircle | 25CC |
+| --- | --- | --- | --- |
+| ᜀ | Tagalog Letter A | A-baybayin | 1700 |
+| ᜁ | Tagalog Letter I | I-baybayin | 1701 |
+| ᜂ | Tagalog Letter U | U-baybayin | 1702 |
+| ᜃ | Tagalog Letter KA | KA-baybayin | 1703 |
+| ᜄ | Tagalog Letter GA | GA-baybayin | 1704 |
+| ᜅ | Tagalog Letter NGA | NGA-baybayin | 1705 |
+| ᜆ | Tagalog Letter TA | TA-baybayin | 1706 |
+| ᜇ | Tagalog Letter DA | DA-baybayin | 1707 |
+| ᜈ | Tagalog Letter NA | NA-baybayin | 1708 |
+| ᜉ | Tagalog Letter PA | PA-baybayin | 1709 |
+| ᜊ | Tagalog Letter BA | BA-baybayin | 170A |
+| ᜋ | Tagalog Letter MA | MA-baybayin | 170B |
+| ᜌ | Tagalog Letter YA | YA-baybayin | 170C |
+| ᜍ | Tagalog Letter RA | RA-baybayin | 170D |
+| ᜎ | Tagalog Letter LA | LA-baybayin | 170E |
+| ᜏ | Tagalog Letter WA | WA-baybayin | 170F |
+| ᜐ | Tagalog Letter SA | SA-baybayin | 1710 |
+| ᜑ | Tagalog Letter HA | HA-baybayin | 1711 |
+| ◌̇ | Tagalog Vowel Sign I | Ipatinig-baybayin | 1712 |
+| ◌̣ | Tagalog Vowel Sign I | Upatinig-baybayin | 1713 |
+| ◌᜔ | Tagalog Sign Virama | kruskudlit-baybayin | 1714 |
+| ◌᜕ | Tagalog Sign Pamudpod | pamudpod-baybayin | 1715 |
+| ᜟ | Tagalog Letter Archaic RA | RA-baybayin.hist | 171F |
+| ᜵ | Philippine Single Punctuation | isabantas-baybayin | 1735 |
+| ᜶ | Philippine Double Punctuation | dalawabantas-baybayin | 1736 |
+| ◌ | - | dottedCircle | 25CC |
